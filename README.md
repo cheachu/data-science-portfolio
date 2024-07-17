@@ -45,7 +45,7 @@ Aspiring data scientist with a strong foundation in machine learning, statistica
 - **Google Data Analysis**
   - Coursera by Google, 2024
 
-r
+
 
 ## References
 Available upon request.
